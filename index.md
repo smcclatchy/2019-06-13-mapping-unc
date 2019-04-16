@@ -9,7 +9,7 @@ latlng: "35.915543,-79.049287"
 humandate: "June 13-14, 2019" )
 humantime: "9:00 am - 4:30 pm"
 startdate: 2019-06-13
-enddate: 2019-06-14 
+enddate: 2019-06-14
 instructor: ["Sue McClatchy", "Dan Gatti"]
 helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["susan.mcclatchy@jax.org"]
@@ -392,3 +392,4 @@ please preview your site before committing, and make sure to run
     </div>
   </div>
 </div> {% comment %} End of 'R' section. {% endcomment %}
+</div>
