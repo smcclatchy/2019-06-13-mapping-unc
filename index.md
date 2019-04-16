@@ -6,7 +6,7 @@ address: "University of North Carolina Chapel Hill"      # full street address o
 country: "us"
 language: "en"
 latlng: "35.915543,-79.049287"
-humandate: "June 13-14, 2019" 
+humandate: "June 13-14, 2019"
 humantime: "9:00 am - 4:30 pm"
 startdate: 2019-06-13
 enddate: 2019-06-14
@@ -338,7 +338,7 @@ please preview your site before committing, and make sure to run
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 
-<div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
+<div id="r">
   <h3>R</h3>
 
   <p>
@@ -391,5 +391,6 @@ please preview your site before committing, and make sure to run
       </article>
     </div>
   </div>
-</div> {% comment %} End of 'R' section. {% endcomment %}
 </div>
+</div>
+
