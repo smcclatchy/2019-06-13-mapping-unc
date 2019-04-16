@@ -6,12 +6,12 @@ address: "University of North Carolina Chapel Hill"      # full street address o
 country: "us"
 language: "en"
 latlng: "35.915543,-79.049287"
-humandate: "June 13-14, 2019" )
+humandate: "June 13-14, 2019" 
 humantime: "9:00 am - 4:30 pm"
 startdate: 2019-06-13
 enddate: 2019-06-14
 instructor: ["Sue McClatchy", "Dan Gatti"]
-helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["FIXME"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
