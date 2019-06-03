@@ -271,8 +271,8 @@ please preview your site before committing, and make sure to run
 {% endcomment %}
 <h2 id="syllabus">Syllabus</h2>
 
- <div class="col-md-6">
-    <h3 id="syllabus">QTL mapping with qtl2</h3>
+ <div id="syllabus">
+    <h3>QTL mapping with qtl2</h3>
     <ul>
       <li>Understanding input file format</li>
       <li>Calculating genotype probabilities</li>
