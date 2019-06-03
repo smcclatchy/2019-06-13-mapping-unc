@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: ""
-venue: "Quantitative Trait Mapping"
+venue: "Quantitative Trait Mapping in the Diversity Outbred"
 address: "University of North Carolina Chapel Hill"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"
 language: "en"
@@ -221,7 +221,7 @@ Display the contact email address set in the configuration file.
 <table class="table table-striped">
 <tr> <td>09:00</td>  <td><a href="https://smcclatchy.github.io/mapping/09-perform-genome-scan-lmm/">Performing a genome scan with a linear mixed model (brief review)</a></td> </tr>
 <tr> <td>09:30</td>  <td><a href="https://smcclatchy.github.io/mapping/10-perform-genome-scan-bin/">Performing a genome scan with binary traits</a></td> </tr>
-<tr> <td>09:45</td>  <td><a href="https://smcclatchy.github.io/mapping/11-est-qtl-effects/">https://smcclatchy.github.io/mapping/11-est-qtl-effects/</a></td> </tr>
+<tr> <td>09:45</td>  <td><a href="https://smcclatchy.github.io/mapping/11-est-qtl-effects/">Estimated QTL effects</a></td> </tr>
 <tr> <td>10:45</td>  <td>Coffee</td> </tr>
 <tr> <td>11:00</td>  <td>Diversity Outbred Mice (lecture)</td> </tr>
 <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
