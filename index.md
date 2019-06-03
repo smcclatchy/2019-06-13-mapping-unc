@@ -281,10 +281,10 @@ please preview your site before committing, and make sure to run
       <li>Finding LOD peaks</li>
       <li>Calculating A Kinship Matrix</li>
       <li>Performing a genome scan with a linear mixed model</li>
-      <li>Estimating QTL effects/li>
+      <li>Estimating QTL effects</li>
       <li><a href="https://kbroman.org/qtl2/assets/vignettes/user_guide.html">Reference...</a></li>
     </ul>
-  </div>
+</div>
 
 <hr/>
 
