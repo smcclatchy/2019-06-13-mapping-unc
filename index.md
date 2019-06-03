@@ -271,13 +271,20 @@ please preview your site before committing, and make sure to run
 {% endcomment %}
 <h2 id="syllabus">Syllabus</h2>
 
-{% if page.carpentry == "swc" %}
-{% include sc/syllabus.html %}
-{% elsif page.carpentry == "dc" %}
-{% include dc/syllabus.html %}
-{% elsif page.carpentry == "lc" %}
-{% include lc/syllabus.html %}
-{% endif %}
+ <div class="col-md-6">
+    <h3 id="syllabus">QTL mapping with qtl2</h3>
+    <ul>
+      <li>Understanding input file format</li>
+      <li>Calculating genotype probabilities</li>
+      <li>Performing a genome scan</li>
+      <li>Performing a permutation test</li>
+      <li>Finding LOD peaks</li>
+      <li>Calculating A Kinship Matrix</li>
+      <li>Performing a genome scan with a linear mixed model</li>
+      <li>Estimating QTL effects/li>
+      <li><a href="https://kbroman.org/qtl2/assets/vignettes/user_guide.html">Reference...</a></li>
+    </ul>
+  </div>
 
 <hr/>
 
@@ -365,7 +372,7 @@ run <code>sudo apt-get install r-base</code> and for Fedora run
 </div>
 </div> {% comment %} End of 'R' section. {% endcomment %}
 
-## qtl2
+### qtl2
 
 The [qtl2](https://github.com/rqtl/qtl2) package contains code for haplotype reconstruction, QTL mapping and plotting.
 
@@ -401,7 +408,7 @@ install_github("rqtl/qtl2")
 ~~~
 {: .r}
 
-## Data files and project organization
+### Data files and project organization
 
 1. Make a new folder in your Desktop called `mapping`. Move into this new folder.
 
