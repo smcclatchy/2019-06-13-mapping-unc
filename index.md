@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: ""
 venue: "Quantitative Trait Mapping in the Diversity Outbred"
-address: "University of North Carolina Chapel Hill"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "Room 5007, Genetic Medicine Building, 120 Mason Farm Road, University of North Carolina, Chapel Hill, NC"
 country: "us"
 language: "en"
 latlng: "35.915543,-79.049287"
