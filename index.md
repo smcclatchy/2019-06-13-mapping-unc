@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: ""
-venue: "Quantitative Trait Mapping"
+venue: "Quantitative Trait Mapping in the Diversity Outbred"
 address: "18 MacNider Hall, 333 South Columbia Street, University of North Carolina, Chapel Hill"
 country: "us"
 language: "en"
@@ -188,7 +188,7 @@ Display the contact email address set in the configuration file.
 
 <h2 id="surveys">Surveys</h2>
 <p>Please be sure to complete these surveys before and after the workshop.</p>
-<p><a href="">Pre-workshop Survey</a></p>
+<p><a href="https://www.surveymonkey.com/r/pre-mapping">Pre-workshop Survey</a></p>
 <p><a href="">Post-workshop Survey</a></p>
 
 <hr/>
@@ -199,32 +199,37 @@ Display the contact email address set in the configuration file.
 <div class="col-md-6">
 <h3>Thursday, June 13</h3>
 <table class="table table-striped">
-<tr> <td>09:00</td>  <td><a href="https://smcclatchy.github.io/mapping/01-introduction/">Introduction</a></td> </tr>
-<tr> <td>09:15</td>  <td><a href="https://smcclatchy.github.io/mapping/02-input-file-format/">Input File Format</a></td> </tr>
-<tr> <td>09:30</td>  <td><a href="https://smcclatchy.github.io/mapping/03-calc-genoprob/">Calculating Genotype Probabilities</a></td> </tr>
-<tr> <td>10:00</td>  <td><a href="https://smcclatchy.github.io/mapping/04-calc-kinship/">Calculating A Kinship Matrix</a></td> </tr>
+<tr> <td>09:00</td>  <td><a href="https://smcclatchy.github.io/mapping/01-introduction/">Introductions and Workshop Overview</a></td> </tr>
+<tr> <td>09:30</td>  <td><a href="https://smcclatchy.github.io/mapping/02-input-file-format/">Input File Format</a></td> </tr>
+<tr> <td>10:00</td>  <td><a href="https://smcclatchy.github.io/mapping/03-calc-genoprob/">Calculating Genotype Probabilities</a></td> </tr>
 <tr> <td>10:45</td>  <td>Coffee</td> </tr>
-<tr> <td>11:00</td>  <td><a href="https://smcclatchy.github.io/mapping/05-special-x-covar/">Special covariates for the X chromosome</a></td> </tr>
-<tr> <td>11:15</td>  <td><a href="https://smcclatchy.github.io/mapping/06-perform-genome-scan/">Performing a genome scan</a></td> </tr>
+<tr> <td>11:00</td>  <td><a href="https://smcclatchy.github.io/mapping/04-special-x-covar/">Special covariates for the X chromosome</a></td> </tr>
+<tr> <td>11:30</td>  <td><a href="https://smcclatchy.github.io/mapping/05-perform-genome-scan/">Performing a genome scan</a></td> </tr>
 <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
-<tr> <td>13:00</td>  <td><a href="https://smcclatchy.github.io/mapping/07-find-lod-peaks/">Finding LOD peaks</a></td> </tr>
-<tr> <td>13:30</td>  <td><a href="https://smcclatchy.github.io/mapping/08-perform-genome-scan-lmm/">Performing a genome scan with a linear mixed model</a></td> </tr>
-<tr> <td>14:00</td>  <td><a href="https://smcclatchy.github.io/mapping/09-perform-genome-scan-bin/">Performing a genome scan with binary traits</a></td> </tr>
+<tr> <td>13:00</td>  <td><a href="https://smcclatchy.github.io/mapping/05-perform-genome-scan/">Performing a genome scan (continued) </a></td> </tr>
+<tr> <td>13:30</td>  <td><a href="https://smcclatchy.github.io/mapping/06-perform-perm-test/">Performing a permutation test</a></td> </tr>
+<tr> <td>14:00</td>  <td><a href="https://smcclatchy.github.io/mapping/07-find-lod-peaks/">Finding LOD peaks</a></td> </tr>
 <tr> <td>14:30</td>  <td>Coffee</td> </tr>
-<tr> <td>14:45</td>  <td><a href="https://smcclatchy.github.io/mapping/10-perform-perm-test/">Performing a permutation test</a></td> </tr>
-<tr> <td>15:30</td>  <td><a href="https://smcclatchy.github.io/mapping/11-est-qtl-effects/">Estimated QTL effects</a></td> </tr>
-<tr> <td>16:00</td>  <td><a href="https://smcclatchy.github.io/mapping/12-snp-assoc/">SNP association</a></td> </tr>
-<tr> <td>16:45</td>  <td>Wrap-up</td> </tr>
+<tr> <td>14:45</td>  <td><a href="https://smcclatchy.github.io/mapping/08-calc-kinship/">Calculating A Kinship Matrix</a></td> </tr>
+<tr> <td>15:45</td>  <td><a href="https://smcclatchy.github.io/mapping/09-perform-genome-scan-lmm/">Performing a genome scan with a linear mixed model</a></td> </tr>
+<tr> <td>16:25</td>  <td>Wrap-up</td> </tr>
+<tr> <td>16:30</td>  <td>End</td> </tr>
 </table>
 </div>
 <div class="col-md-6">
 <h3>Friday, June 14</h3>
 <table class="table table-striped">
-<tr> <td>09:00</td>  <td><a href="https://smcclatchy.github.io/mapping/13-qtl-in-do/">QTL analysis in Diversity Outbred Mice</a></td> </tr>
+<tr> <td>09:00</td>  <td><a href="https://smcclatchy.github.io/mapping/09-perform-genome-scan-lmm/">Performing a genome scan with a linear mixed model (brief review)</a></td> </tr>
+<tr> <td>09:30</td>  <td><a href="https://smcclatchy.github.io/mapping/10-perform-genome-scan-bin/">Performing a genome scan with binary traits</a></td> </tr>
+<tr> <td>09:45</td>  <td><a href="https://smcclatchy.github.io/mapping/11-est-qtl-effects/">Estimated QTL effects</a></td> </tr>
 <tr> <td>10:45</td>  <td>Coffee</td> </tr>
-<tr> <td>11:00</td>  <td><a href="https://smcclatchy.github.io/mapping/13-qtl-in-do/">QTL analysis in Diversity Outbred Mice </a> (continued)</td> </tr>
-<tr> <td>11:45</td>  <td>Wrap-up</td> </tr>
-<tr> <td>12:00</td>  <td>End</td> </tr>
+<tr> <td>11:00</td>  <td>Diversity Outbred Mice (lecture)</td> </tr>
+<tr> <td>12:00</td>  <td>Lunch break</td> </tr>
+<tr> <td>13:00</td>  <td><a href="https://smcclatchy.github.io/mapping/13-qtl-in-do/">QTL analysis in Diversity Outbred Mice</a></td> </tr>
+<tr> <td>14:30</td>  <td>Coffee</td> </tr>
+<tr> <td>14:45</td>  <td><a href="https://smcclatchy.github.io/mapping/13-qtl-in-do/">QTL analysis in Diversity Outbred Mice (continued)</a></td> </tr>
+<tr> <td>16:25</td>  <td>Wrap-up</td> </tr>
+<tr> <td>16:30</td>  <td>End</td> </tr>
 </table>
 </div>
 </div>
@@ -266,13 +271,20 @@ please preview your site before committing, and make sure to run
 {% endcomment %}
 <h2 id="syllabus">Syllabus</h2>
 
-{% if page.carpentry == "swc" %}
-{% include sc/syllabus.html %}
-{% elsif page.carpentry == "dc" %}
-{% include dc/syllabus.html %}
-{% elsif page.carpentry == "lc" %}
-{% include lc/syllabus.html %}
-{% endif %}
+ <div id="syllabus">
+    <h3>QTL mapping with qtl2</h3>
+    <ul>
+      <li>Understanding input file format</li>
+      <li>Calculating genotype probabilities</li>
+      <li>Performing a genome scan</li>
+      <li>Performing a permutation test</li>
+      <li>Finding LOD peaks</li>
+      <li>Calculating A Kinship Matrix</li>
+      <li>Performing a genome scan with a linear mixed model</li>
+      <li>Estimating QTL effects</li>
+      <li><a href="https://kbroman.org/qtl2/assets/vignettes/user_guide.html">Reference...</a></li>
+    </ul>
+</div>
 
 <hr/>
 
@@ -359,4 +371,78 @@ run <code>sudo apt-get install r-base</code> and for Fedora run
 </div>
 </div>
 </div> {% comment %} End of 'R' section. {% endcomment %}
+
+### qtl2
+
+The [qtl2](https://github.com/rqtl/qtl2) package contains code for haplotype reconstruction, QTL mapping and plotting.
+
+Option 1: R/qtl2 is not yet available on [CRAN](https://cran.r-project.org), but it can be installed from a mini-CRAN at [rqtl.org](http://www.rqtl.org/). Make sure you have the latest version of [R (3.4.4)](https://cran.r-project.org).
+
+Option 2: Alternatively, you can install R/qtl2 from its source on [GitHub](https://github.com/rqtl).
+(But note that compiling the C++ code can be rather slow.)
+
+On _Windows_, you'll need [Rtools](https://cran.r-project.org/bin/windows/Rtools/).
+
+On _Mac OS X_, you'll need the
+[command-line developer tools](https://mac-how-to.gadgethacks.com/how-to/install-command-line-developer-tools-without-xcode-0168115/),
+as well as [gfortran](https://gcc.gnu.org/wiki/GFortranBinaries#MacOS).
+
+You then need to install the
+[devtools](https://github.com/hadley/devtools) package, plus a set of
+package dependencies: [yaml](https://cran.r-project.org/package=yaml),
+[jsonlite](https://cran.r-project.org/package=jsonlite),
+[data.table](https://cran.r-project.org/package=data.table),
+and [RcppEigen](https://github.com/RcppCore/RcppEigen).
+(Additional, secondary dependencies will also be installed.) Start RStudio, then copy and paste the following code into the R console in RStudio.
+
+~~~
+install.packages(c("devtools", "yaml", "jsonlite", "data.table", "RcppEigen", "RSQLite", "qtl"))
+~~~
+{: .r}
+
+Finally, install R/qtl2 using `devtools::install_github()`. Copy and paste the following code into the R console in RStudio.
+
+~~~
+library(devtools)
+install_github("rqtl/qtl2")
+~~~
+{: .r}
+
+### Data files and project organization
+
+1. Make a new folder in your Desktop called `mapping`. Move into this new folder.
+
+2. Create  a `data` folder to hold the data, a `scripts` folder to house your scripts, and a `results` folder to hold results. 
+
+Alternatively, you can use the R console to run the following commands for steps 1 and 2.
+
+~~~
+setwd("~/Desktop")
+dir.create("./mapping")
+setwd("~/Desktop/mapping")
+dir.create("./data")
+dir.create("./scripts")
+dir.create("./results")
+~~~
+{: .r}
+
+3. Please download the following large files **before the workshop**, and place them in your `data` folder. You can download the files from the URLs below and move the files the same way that you would for downloading and moving any other kind of data.
+
+- [cc_variants.sqlite doi:10.6084/m9.figshare.5280229.v2](https://figshare.com/articles/SQLite_database_of_variants_in_Collaborative_Cross_founder_mouse_strains/5280229/2), variants in the Collaborative Cross founders (3 GB)
+- [mouse_genes.sqlite doi:10.6084/m9.figshare.5280238.v4](https://figshare.com/articles/SQLite_database_with_mouse_gene_annotations_from_Mouse_Genome_Informatics_MGI_at_The_Jackson_Laboratory/5280238/4) full set of mouse gene annotations (677 MB)
+- [mouse_genes_mgi.sqlite doi:10.6084/m9.figshare.5286019.v5](https://figshare.com/articles/SQLite_database_with_MGI_mouse_gene_annotations_from_Mouse_Genome_Informatics_MGI_at_The_Jackson_Laboratory/5286019/5) just the MGI mouse gene annotations (11 MB)
+- [DO QTL data](ftp://ftp.jax.org/dgatti/qtl2_workshop/qtl2_demo.Rdata) Dan's DO data from the benzene study
+
+Alternatively, you can copy and paste the following into the R console to download the data.
+~~~
+setwd("~/Desktop/mapping")
+download.file("https://ndownloader.figshare.com/files/9746485", "./data/cc_variants.sqlite")
+download.file("https://ndownloader.figshare.com/files/9746458", "./data/mouse_genes.sqlite")
+download.file("https://ndownloader.figshare.com/files/9746452", "./data/mouse_genes_mgi.sqlite")
+download.file("ftp://ftp.jax.org/dgatti/qtl2_workshop/qtl2_demo.Rdata", "./data/qtl2_demo.Rdata")
+~~~
+{: .r}
+
+
+You will need these for the final lesson episodes on SNP association mapping and QTL analysis in Diversity Outbred mice.
 
