@@ -2,10 +2,10 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: ""
 venue: "Quantitative Trait Mapping"
-address: "University of North Carolina Chapel Hill"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "18 MacNider Hall, 333 South Columbia Street, University of North Carolina, Chapel Hill"
 country: "us"
 language: "en"
-latlng: "35.915543,-79.049287"
+latlng: "35.905963,-79.0525369"
 humandate: "June 13-14, 2019"
 humantime: "9:00 am - 4:30 pm"
 startdate: 2019-06-13
