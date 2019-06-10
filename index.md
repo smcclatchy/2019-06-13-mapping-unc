@@ -11,9 +11,9 @@ humantime: "9:00 am - 4:30 pm"
 startdate: 2019-06-13
 enddate: 2019-06-14
 instructor: ["Sue McClatchy", "Dan Gatti"]
-helper: [""]
+helper: ["John Shorter"]
 email: ["susan.mcclatchy@jax.org"]
-collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes:  https://pad.carpentries.org/2019-06-13-mapping-unc
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
@@ -124,7 +124,7 @@ Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
   <strong>Requirements:</strong> Participants must bring a laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.). They should have a few specific software packages installed (listed <a href="#setup">below</a>).
 </p>
 
 {% comment%}
